@@ -137,7 +137,7 @@ Interactive slicers allow users to filter the dashboard by:
 
 > **Insert your dashboard screenshot here**
 
-![Dashboard Preview](images/Dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ---
 
